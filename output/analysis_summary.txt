@@ -1,0 +1,19 @@
+======================================================================
+MUSIC & CRIME CORRELATION EXPLORER — ANALYSIS SUMMARY
+======================================================================
+
+Cities analyzed: 25
+Genre categories: 7
+Audio features: 7
+Crime categories: 9
+
+Statistically significant correlations (p<0.05): 9
+
+Top 5 significant audio-crime correlations:
+  danceability ↔ fraud: r=+0.6380 (p=0.0006)
+  speechiness ↔ violent: r=+0.5805 (p=0.0023)
+  speechiness ↔ assault: r=+0.5552 (p=0.0040)
+  loudness ↔ fraud: r=+0.5106 (p=0.0091)
+  danceability ↔ assault: r=+0.4743 (p=0.0166)
+
+⚠ DISCLAIMER: Correlation ≠ Causation. See report for full discussion.
